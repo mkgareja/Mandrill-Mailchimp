@@ -221,11 +221,9 @@ end
 
  
 ## Reference
-  -[Mandrill Docs][mndoc]
-  
-  -[Mailchimp Docs][mcdoc]
-  
-  -[Easy Techi][ET]
+  - [Mandrill Docs][mndoc]
+  - [Mailchimp Docs][mcdoc]
+  - [Easy Techi][ET]
 
    
  
