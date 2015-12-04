@@ -44,6 +44,8 @@ you can send emails through the Mandrill API or SMTP integration. With the Mandr
     -Navigate to the outboud in your Mandrill account.
     -Select templete page.
     -Here you can find listing of mailchimp template.
+
+Now you can use those template in your mandrill account with help of following API.
 ### API calls
 [Official API Clients][inti]
 ### json:
