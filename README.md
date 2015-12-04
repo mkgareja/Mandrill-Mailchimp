@@ -37,8 +37,7 @@ you can send emails through the Mandrill API or SMTP integration. With the Mandr
     -Locate the template you'd like to copy by browsing the template list or using the search option.
     -Click the template's drop-down menu and choose Send To Mandrill.
     -You'll see a success message once your template has been saved to your Mandrill account.
-  
-  After your MailChimp account is integrated with Mandrill, you have the option to export [MailChimp templates to your Mandrill account][create-temp]. But  templates in Mandrill work differently than in MailChimp, so you may need to tweak your templates for Mandrill.
+  But  templates in Mandrill work differently than in MailChimp, so you may need to tweak your templates for Mandrill.
 ### API calls
 [Official API Clients][inti]
 ### json:
