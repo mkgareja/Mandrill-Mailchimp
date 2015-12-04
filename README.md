@@ -4,7 +4,7 @@ This tutorial will help you to setup mandrill-mailchimp intigration. follow the 
 
   1) [Create Mandrill accout] [mandrillac], Add domain, [Verify it][mandrillveri], [Create simple template][createtemp].
   
-  2) [Create Mandrill accout] [mandrillac], [Connect with Mandrill.][connect-mandrill]
+  2) [Create Mailchimp accout] [mailchimpac], [Connect with Mandrill.][connect-mandrill]
   
   3) [Send template form mailchimp to mandrill.][send-template] 
   
@@ -229,6 +229,7 @@ end
  
 
    [mandrillac]:<https://www.mandrill.com/signup/>
+   [mailchimpac]:<https://login.mailchimp.com/signup>
    [mandrillveri]:<https://www.youtube.com/watch?v=tP1ywBlPuf4>
    [createtemp]:<https://www.youtube.com/watch?v=BNFrStrhER8>
    [connect-mandrill]:<http://kb.mailchimp.com/integrations/other-integrations/mandrill-for-mailchimp-users>
