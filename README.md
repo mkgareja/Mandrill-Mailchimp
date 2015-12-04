@@ -6,11 +6,37 @@ you can send emails through the Mandrill API or SMTP integration. With the Mandr
 
 
 
-  1) [Create Mandrill accout] [mandrillac], Add domain, [Verify it][mandrillveri].
+  1) [Create Mandrill accout] [mandrillac]
   
-  2) [Create Mailchimp accout] [mailchimpac], [Connect with Mandrill.][connect-mandrill]
+  2)  Add a New Sending Domain
   
-  3) [Send template form mailchimp to mandrill.][send-template] 
+      -Go to Settings
+      -Choose Sending Domains.
+      -Type a new domain at the top and click Add.
+      
+  3) [Add DNS Records and Test Sending Domain Settings][mandrillveri].
+
+  Now that you've added a new sending domain, [add the appropriate records][dns-link] to your domain's DNS settings.
+  
+  4) [Create Mailchimp accout] [mailchimpac].
+  
+    -In your MailChimp account, click your profile name to expand the Account Panel, and click Account.
+    -Click the Integrations option.
+    -Click the Mandrill option.
+    -Click Authorize Connection.
+    -You'll be redirected to the Mandrill login page to enter your Mandrill username and password.
+    -After providing your Mandrill username and password, you'll see a message asking if you'd like to grant MailChimp access to your Mandrill account.
+    -Grant MailChimp access to your Mandrill account
+    -Click Allow to connect your accounts or Deny to cancel the connection attempt.
+  
+  [Connect with Mandrill.][connect-mandrill]
+  
+  5) [Send template form mailchimp to mandrill.][send-template]
+  
+    -Navigate to the Templates page in your MailChimp account.
+    -Locate the template you'd like to copy by browsing the template list or using the search option.
+    -Click the template's drop-down menu and choose Send To Mandrill.
+    -You'll see a success message once your template has been saved to your Mandrill account.
   
   After your MailChimp account is integrated with Mandrill, you have the option to export [MailChimp templates to your Mandrill account][create-temp]. But  templates in Mandrill work differently than in MailChimp, so you may need to tweak your templates for Mandrill.
 ### API calls
@@ -245,4 +271,5 @@ end
    [mcdoc]:<http://developer.mailchimp.com/documentation/mailchimp/?_ga=1.173251683.1335557208.1449041276>
    [ET]:<https://www.youtube.com/watch?v=BNFrStrhER8>
    [create-temp]:<https://mandrill.zendesk.com/hc/en-us/articles/205583097-How-do-I-add-a-MailChimp-template-to-my-Mandrill-account->
+   [dns-link]:<http://help.mandrill.com/entries/22030056-how-do-i-add-dns-records-for-my-sending-domains>
 
