@@ -217,8 +217,13 @@ end
  - Setup [DNS verification][dns-mandrill] of mandrill.
  - Generate api key from mandrill account.
  - Remove unwanted parameters from api call. 
+ 
 
-
+ 
+## Reference
+  -[Mandrill Docs][mndoc]
+  -[Mailchimp Docs][mcdoc]
+  -[Easy Techi][ET]
 
    
  
@@ -230,4 +235,7 @@ end
    [send-template]:<https://mandrill.zendesk.com/hc/en-us/articles/205583097-How-do-I-add-a-MailChimp-template-to-my-Mandrill-account->
    [dns-mandrill]:<https://mandrill.zendesk.com/hc/en-us/articles/205582277-How-to-Add-DNS-Records-for-Sending-Domains>
    [inti]:<https://mandrillapp.com/api/docs/messages.php.html#method=send-template>
+   [mndoc]:<https://mandrillapp.com/docs/>
+   [mcdocs]:<http://developer.mailchimp.com/documentation/mailchimp/?_ga=1.173251683.1335557208.1449041276>
+   [ET]:<https://www.youtube.com/watch?v=BNFrStrhER8>
 
