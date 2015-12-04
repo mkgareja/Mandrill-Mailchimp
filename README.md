@@ -1,5 +1,4 @@
 # Mandrill-Mailchimp
-Best and easy way to Mandrill-Mailchimp integration. 
 
 This tutorial will help you to setup mandrill-mailchimp intigration. follow the steps.
 
