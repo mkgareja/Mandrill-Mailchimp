@@ -222,7 +222,9 @@ end
  
 ## Reference
   -[Mandrill Docs][mndoc]
+  
   -[Mailchimp Docs][mcdoc]
+  
   -[Easy Techi][ET]
 
    
@@ -237,6 +239,6 @@ end
    [dns-mandrill]:<https://mandrill.zendesk.com/hc/en-us/articles/205582277-How-to-Add-DNS-Records-for-Sending-Domains>
    [inti]:<https://mandrillapp.com/docs/integrations.html>
    [mndoc]:<https://mandrillapp.com/docs/>
-   [mcdocs]:<http://developer.mailchimp.com/documentation/mailchimp/?_ga=1.173251683.1335557208.1449041276>
+   [mcdoc]:<http://developer.mailchimp.com/documentation/mailchimp/?_ga=1.173251683.1335557208.1449041276>
    [ET]:<https://www.youtube.com/watch?v=BNFrStrhER8>
 
