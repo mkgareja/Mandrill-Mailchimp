@@ -1,6 +1,7 @@
 # Mandrill-Mailchimp
 
-This tutorial will help you to setup mandrill-mailchimp intigration. follow the steps.
+If you already have a MailChimp account, linking it to your Mandrill account allows you to take advantage of bundled pricing. For each MailChimp account, you can link to one Mandrill account. A Mandrill account can be linked to multiple MailChimp accounts.This tutorial will help you to setup mandrill-mailchimp intigration.
+
 
   1) [Create Mandrill accout] [mandrillac], Add domain, [Verify it][mandrillveri], [Create simple template][createtemp].
   
