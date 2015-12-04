@@ -2,13 +2,17 @@
 
 If you already have a MailChimp account, linking it to your Mandrill account allows you to take advantage of bundled pricing. For each MailChimp account, you can link to one Mandrill account. A Mandrill account can be linked to multiple MailChimp accounts.This tutorial will help you to setup mandrill-mailchimp intigration.
 
+you can send emails through the Mandrill API or SMTP integration. With the Mandrill API, you can send emails, get information about your account, and view or parse reporting data in your own app or system. Point your developer to these resources to get started
 
-  1) [Create Mandrill accout] [mandrillac], Add domain, [Verify it][mandrillveri], [Create simple template][createtemp].
+
+
+  1) [Create Mandrill accout] [mandrillac], Add domain, [Verify it][mandrillveri].
   
   2) [Create Mailchimp accout] [mailchimpac], [Connect with Mandrill.][connect-mandrill]
   
   3) [Send template form mailchimp to mandrill.][send-template] 
   
+  After your MailChimp account is integrated with Mandrill, you have the option to export [MailChimp templates to your Mandrill account][create-temp]. But  templates in Mandrill work differently than in MailChimp, so you may need to tweak your templates for Mandrill.
 ### API calls
 [Official API Clients][inti]
 ### json:
@@ -240,4 +244,5 @@ end
    [mndoc]:<https://mandrillapp.com/docs/>
    [mcdoc]:<http://developer.mailchimp.com/documentation/mailchimp/?_ga=1.173251683.1335557208.1449041276>
    [ET]:<https://www.youtube.com/watch?v=BNFrStrhER8>
+   [create-temp]:<https://mandrill.zendesk.com/hc/en-us/articles/205583097-How-do-I-add-a-MailChimp-template-to-my-Mandrill-account->
 
