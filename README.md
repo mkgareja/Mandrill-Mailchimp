@@ -14,11 +14,11 @@ you can send emails through the Mandrill API or SMTP integration. With the Mandr
       -Choose Sending Domains.
       -Type a new domain at the top and click Add.
       
-  3) [Add DNS Records and Test Sending Domain Settings][mandrillveri].
+  3) [Add DNS Records and Test Sending Domain Settings][mandrillveri]
 
   Now that you've added a new sending domain, [add the appropriate records][dns-link] to your domain's DNS settings.
   
-  4) [Create Mailchimp accout] [mailchimpac].
+  4) [Create Mailchimp accout] [mailchimpac]
   
     -In your MailChimp account, click your profile name to expand the Account Panel, and click Account.
     -Click the Integrations option.
