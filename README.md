@@ -2,7 +2,7 @@
 
 If you already have a MailChimp account, linking it to your Mandrill account allows you to take advantage of bundled pricing. For each MailChimp account, you can link to one Mandrill account. A Mandrill account can be linked to multiple MailChimp accounts.This tutorial will help you to setup mandrill-mailchimp intigration.
 
-you can send emails through the Mandrill API or SMTP integration. With the Mandrill API, you can send emails, get information about your account, and view or parse reporting data in your own app or system. Point your developer to these resources to get started
+you can send emails through the Mandrill API or SMTP integration. With the Mandrill API, you can send emails, get information about your account, and view or parse reporting data in your own app or system. Point your developer to these resources to get started.
 
 
 
