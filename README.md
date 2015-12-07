@@ -48,6 +48,7 @@ you can send emails through the Mandrill API or SMTP integration. With the Mandr
 Now you can use those template in your mandrill account with help of following API.
 ### API calls
 [Official API Clients][inti]
+All of the mandrill api can be viewed/obtained through bit [Bitbucket][bit] or the language-specific repositories listed below.
 ### json:
 ```sh
 {
@@ -279,4 +280,5 @@ end
    [ET]:<https://www.youtube.com/watch?v=BNFrStrhER8>
    [create-temp]:<https://mandrill.zendesk.com/hc/en-us/articles/205583097-How-do-I-add-a-MailChimp-template-to-my-Mandrill-account->
    [dns-link]:<http://help.mandrill.com/entries/22030056-how-do-i-add-dns-records-for-my-sending-domains>
+   [bit]:<https://bitbucket.org/mailchimp/>
 
