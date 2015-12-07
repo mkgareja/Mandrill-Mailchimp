@@ -48,7 +48,8 @@ you can send emails through the Mandrill API or SMTP integration. With the Mandr
 Now you can use those template in your mandrill account with help of following API.
 ### API calls
 [Official API Clients][inti]
-All of the mandrill api can be viewed/obtained through bit [Bitbucket][bit] or the language-specific repositories listed below.
+
+All of the mandrill api can be viewed/obtained through [Bitbucket][bit] or the language-specific repositories listed below.
 ### json:
 ```sh
 {
